@@ -1,2 +1,2 @@
-# Trabalho_escola
-Trabalho escola
+# Escola_sistema
+Escola_sistema
